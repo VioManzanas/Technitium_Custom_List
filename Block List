@@ -1,0 +1,59 @@
+# ======================
+# Major VPN Providers
+# ======================
+0.0.0.0 nordvpn.com
+0.0.0.0 expressvpn.com
+0.0.0.0 surfshark.com
+0.0.0.0 cyberghostvpn.com
+0.0.0.0 privateinternetaccess.com
+0.0.0.0 protonvpn.com
+0.0.0.0 windscribe.com
+0.0.0.0 hide.me
+0.0.0.0 ivacy.com
+0.0.0.0 vpnunlimitedapp.com
+0.0.0.0 strongvpn.com
+0.0.0.0 purevpn.com
+0.0.0.0 ipvanish.com
+0.0.0.0 vyprvpn.com
+0.0.0.0 hotspotshield.com
+0.0.0.0 tunnelbear.com
+0.0.0.0 zenmate.com
+0.0.0.0 safervpn.com
+0.0.0.0 atlasvpn.com
+0.0.0.0 vpnunlimited.com
+0.0.0.0 vpn.ac
+0.0.0.0 goosevpn.com
+
+# ======================
+# Free & Lesser-Known VPNs
+# ======================
+0.0.0.0 vpngate.net
+0.0.0.0 getoutline.org
+0.0.0.0 outlinevpn.com
+0.0.0.0 psiphon.ca
+0.0.0.0 psiphon3.com
+0.0.0.0 seed4.me
+0.0.0.0 urban-vpn.com
+0.0.0.0 urbanvpn.com
+0.0.0.0 hola.org
+0.0.0.0 holavpn.com
+0.0.0.0 operavpn.com
+0.0.0.0 vpn.opera.com
+0.0.0.0 dotvpn.com
+0.0.0.0 xvpn.io
+0.0.0.0 thundervpn.co
+0.0.0.0 supervpn.net
+0.0.0.0 turbovpn.co
+0.0.0.0 turbovpn.com
+0.0.0.0 securevpn.com
+0.0.0.0 finchvpn.com
+0.0.0.0 vpnbook.com
+
+# ======================
+# Open-Source / Community VPN Projects
+# (Block if you want to prevent VPN client downloads/configs)
+# ======================
+0.0.0.0 openvpn.net
+0.0.0.0 swupdate.openvpn.net
+0.0.0.0 softether.org
+0.0.0.0 strongswan.org
