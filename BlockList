@@ -75,3 +75,18 @@
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 customerevents.netflix.com
 0.0.0.0 presentation.netflix.com
+
+# ======================
+# Reddit Site & APIs
+# ======================
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 old.reddit.com
+0.0.0.0 redditmedia.com
+0.0.0.0 redditstatic.com
+0.0.0.0 gateway.reddit.com
+0.0.0.0 oauth.reddit.com
+0.0.0.0 preview.redd.it
+0.0.0.0 external-preview.redd.it
+0.0.0.0 i.redd.it
+0.0.0.0 v.redd.it
