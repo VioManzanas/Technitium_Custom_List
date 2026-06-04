@@ -105,3 +105,10 @@
 0.0.0.0 telegram.dog
 0.0.0.0 tx.me
 0.0.0.0 web.telegram.org
+
+# =================================
+# Others
+# =================================
+0.0.0.0 easylist-downloads.adblockplus.org
+0.0.0.0 adblockplus.org
+0.0.0.0 www.adblockplus.org
