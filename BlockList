@@ -90,3 +90,18 @@
 0.0.0.0 external-preview.redd.it
 0.0.0.0 i.redd.it
 0.0.0.0 v.redd.it
+
+# =================================
+# Telegram Apps & Web Blocklist
+# =================================
+0.0.0.0 telegram.org
+0.0.0.0 www.telegram.org
+0.0.0.0 telegram.me
+0.0.0.0 t.me
+0.0.0.0 telesco.pe
+0.0.0.0 tg.dev
+0.0.0.0 telegra.ph
+0.0.0.0 telega.one
+0.0.0.0 telegram.dog
+0.0.0.0 tx.me
+0.0.0.0 web.telegram.org
