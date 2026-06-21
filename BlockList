@@ -23,10 +23,6 @@
 0.0.0.0 vpnunlimited.com
 0.0.0.0 vpn.ac
 0.0.0.0 goosevpn.com
-
-# ======================
-# Free & Lesser-Known VPNs
-# ======================
 0.0.0.0 vpngate.net
 0.0.0.0 getoutline.org
 0.0.0.0 outlinevpn.com
@@ -48,11 +44,6 @@
 0.0.0.0 securevpn.com
 0.0.0.0 finchvpn.com
 0.0.0.0 vpnbook.com
-
-# ======================
-# Open-Source / Community VPN Projects
-# (Block if you want to prevent VPN client downloads/configs)
-# ======================
 0.0.0.0 openvpn.net
 0.0.0.0 swupdate.openvpn.net
 0.0.0.0 softether.org
@@ -90,6 +81,16 @@
 0.0.0.0 external-preview.redd.it
 0.0.0.0 i.redd.it
 0.0.0.0 v.redd.it
+0.0.0.0 myspace.com
+0.0.0.0 www.myspace.com
+0.0.0.0 music.myspace.com
+0.0.0.0 videos.myspace.com
+0.0.0.0 profiles.myspace.com
+0.0.0.0 api.myspace.com
+0.0.0.0 uploads.myspace.com
+0.0.0.0 img.myspace.com
+
+
 
 # =================================
 # Telegram Apps & Web Blocklist
