@@ -181,3 +181,11 @@
 0.0.0.0 alternative.storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 storeedge.microsoft.com
 0.0.0.0 storeedgefd.azurefd.net
+
+# =================================
+# Browser Store
+# =================================
+
+0.0.0.0 chromewebstore.google.com
+0.0.0.0 chrome.google.com
+0.0.0.0 clients2.google.com
